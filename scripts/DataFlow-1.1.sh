@@ -7,7 +7,7 @@ normal_pass() {
     step1.mdj \
     ${DownloadSite} \
     ${Branch} \
-    /home/headless/Desktop/workspace/myshixun/数据流图/submit/step1.mdj
+    /home/headless/Desktop/workspace/myshixun/数据流图/submit/step_detail_1/step1.mdj
 
 }
 
