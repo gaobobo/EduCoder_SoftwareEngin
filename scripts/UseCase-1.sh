@@ -13,7 +13,7 @@ normal_pass() {
 
     while(( $index<=9 ))
     do
-       cp /tmp/step1.mdj desktop/workspace/myshixun/submit/submit_step${index}/step${index}.mdj
+       cp /tmp/step1.mdj /home/headless/Desktop/workspace/myshixun/submit/submit_step${index}/step${index}.mdj
        let "index++"
     done
 
