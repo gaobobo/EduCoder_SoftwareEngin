@@ -11,7 +11,7 @@ normal_pass() {
 
     index=1
 
-    while(( $index<=9 ))
+    while(( $index<=8 ))
     do
        cp /tmp/step1.mdj /home/headless/Desktop/workspace/myshixun/submit/submit_step${index}/step${index}.mdj
        let "index++"
