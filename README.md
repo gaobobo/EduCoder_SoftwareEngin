@@ -4,7 +4,7 @@
 
 # 头歌软件工程闯关脚本
 
-该脚本用于通过头歌的单片机实践项目。支持的关卡参见本仓库的 [`/scripts/`](./scripts/) 或参见 [微信文章](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4Njg3NDQ2Ng==&action=getalbum&album_id=3964434206922604566#wechat_redirect) 。
+该脚本用于通过头歌的实践项目。支持的关卡参见本仓库的 [`/scripts/`](./scripts/) 或参见 [微信文章](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4Njg3NDQ2Ng==&action=getalbum&album_id=3964434206922604566#wechat_redirect) 。
 
 --------
 
