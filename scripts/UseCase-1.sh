@@ -14,7 +14,7 @@ normal_pass() {
     while(( $index<=9 ))
     do
        cp /tmp/step1.mdj desktop/workspace/myshixun/submit/submit_step${index}/step${index}.mdj
-       let "int++"
+       let "index++"
     done
 
 }
